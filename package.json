@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-node-playground",
+  "version": "0.1.0",
+  "description": "A playground project",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon src/index.ts"
+  },
+  "author": "markopp",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3",
+    "@types/node": "^22.9.1"
+  }
+}
